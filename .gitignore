@@ -1,0 +1,4 @@
+*.log
+objs/
+.vscode/
+Ubantu.bat
